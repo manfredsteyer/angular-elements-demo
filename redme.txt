@@ -1,0 +1,5 @@
+# Vorstufe (!) zu einem Web Components Beispiel
+
+- Angular Elements muss noch integriert werden.
+
+- Das Sample zeigt trotzdem, wie man mehrere Apps in eine Seite laden kann.
